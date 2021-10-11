@@ -1,0 +1,5 @@
+# Application properties
+spring:
+  shell:
+    interactive:
+      enabled: false
